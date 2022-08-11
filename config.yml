@@ -47,7 +47,7 @@ outputs:
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     description: "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
-    author: Theme PaperMod
+    author: Brandon
     # author: ["Me", "You"] # multiple authors
 
     defaultTheme: auto
@@ -81,12 +81,6 @@ params:
         Title: "DIY Disc Golf Carts"
         Content: >
             Welcome to an extension page of the DIY Disc Golf Carts Facebook Group. This page was created not as a replacement to the Facebook Group but to supplement the items shared there. Additionally, I am in not the administrator or a moderator of the Facebook group, I created this as a resource for members of the group to utilize. My vision for this page would be to include detailed writeups including step-by-step instruction with pictures as well as a repository for parts utilized within builds or common parts on carts. If you would like to join the Facebook group to share your creation, please navigate to the "Facebook Group" hyperlink on this page.
-
-    editPost:
-        URL: "https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite/content"
-        Text: "Suggest Changes" # edit text
-        appendFilePath: true # to append file path to Edit link
-
     # label:
     #     text: "Home"
     #     icon: icon.png
