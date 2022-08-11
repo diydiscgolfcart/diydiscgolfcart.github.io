@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://diydiscgolfcart.github.io/sitemap.xml
+Sitemap: https://www.diydiscgolfcart.com/sitemap.xml
