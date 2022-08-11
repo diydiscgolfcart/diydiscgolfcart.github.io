@@ -13,9 +13,6 @@
 -   Finally this
 
 
----
-
 ## Contact Information
 
 -   If you require any support with the contribution process or have general inquiries with regards to this project, please reach out to me at admin@diydiscgolfcart.com.
----
