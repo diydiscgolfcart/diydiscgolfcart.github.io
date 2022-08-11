@@ -27,10 +27,10 @@ languages:
         menu:
             main:
                 - name: Build Instructions
-                  url: /content/build-instruct
+                  url: build-instructions
                   weight: 5
                 - name: Parts Lists
-                  url: /content/parts-list
+                  url: parts-list
                   weight: 5
                 - name: Tags
                   url: tags/
